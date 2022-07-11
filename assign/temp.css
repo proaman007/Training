@@ -1,0 +1,385 @@
+
+html, body, div, span, applet, object, iframe,
+h1, h2, h3, h4, h5, h6, p, blockquote, pre,
+a, abbr, acronym, address, big, cite, code,
+del, dfn, em, img, ins, kbd, q, s, samp,
+small, strike, strong, sub, sup, tt, var,
+b, u, i, center,
+dl, dt, dd, ol, ul, li,
+fieldset, form, label, legend,
+table, caption, tbody, tfoot, thead, tr, th, td,
+article, aside, canvas, details, embed, 
+figure, figcaption, footer, header, hgroup, 
+menu, nav, output, ruby, section, summary,
+time, mark, audio, video {
+	margin: 0;
+	padding: 0;
+	border: 0;
+	font-size: 100%;
+	font: inherit;
+	vertical-align: baseline;
+}
+article, aside, details, figcaption, figure, 
+footer, header, hgroup, menu, nav, section {
+	display: block;
+}
+body {
+	line-height: 1;
+}
+ol, ul {
+	list-style: none;
+}
+blockquote, q {
+	quotes: none;
+}
+blockquote:before, blockquote:after,
+q:before, q:after {
+	content: '';
+	content: none;
+}
+table {
+	border-collapse: collapse;
+	border-spacing: 0;
+}
+
+/* CSS Reset Ends Here */
+
+body{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: large;
+}
+
+.container{
+    background-color: grey;
+    width: auto;
+    height: 50px;
+}
+
+.fa-brands{
+
+    color: red;
+}
+
+#logo{
+    padding-left: 30px;
+}
+
+#navigation{
+    padding-left: 20px;
+}
+
+#navigation li{
+    display: inline;
+}
+
+#navigation li a:link{
+    text-decoration: none;
+    padding: 5px;
+    color: white;
+}
+
+#logo,#navigation{
+    float:left;
+    padding-top: 17px;
+}
+#navigation .active{
+    background-color: black;
+}
+
+#searchDiv{
+    float:right;
+    padding:10px 30px 0px 0px;
+}
+
+#searchText{
+    height: 25px;
+    width: 200px;
+    border-radius: 4px;
+    text-align: center;
+    font-size: medium;
+}
+
+#searchButton{
+    height: 31px;
+    width: 60px;
+    border-radius: 4px;
+    font-size: medium;
+}
+
+/* container ends here */
+
+.fa-solid{
+    color: yellow;
+}
+
+.container2{
+    background-color: yellowgreen;
+    height: 150px;
+    padding-top: 20px;
+}
+
+#phoneimage{
+    padding-left: 30px;
+    padding-top: 20px;
+}
+
+#tagline{
+    padding-left: 10px;
+    font-size: 40px;
+}
+
+#phoneimage,#tagline{
+    display: flex;
+    float: left;
+    color: yellow;
+}
+
+#line{
+    padding-top: 27px;
+    padding-left: 30px;
+    color: yellow;
+}
+
+#tagb{
+    padding-left: 30px;
+    padding-top: 20px;
+}
+#tagbutton{
+    height: 30px;
+    border-radius: 4px;
+    font-size: medium;
+}
+
+/* container2 ends here */
+
+.container3{
+    padding-top: 30px;
+    height: 550px;
+}
+
+#head1{
+    font-weight: bolder;
+    font-size: 30px;
+    padding-top: 20px;
+    padding-left: 30px;
+}
+
+#head2{
+    padding-left: 7px;
+    font-size: 20px;
+    color:silver;
+}
+
+#head1,#head2{
+    display: inline;
+}
+
+#para{
+    padding-left: 30px;
+    padding-top: 20px;
+    line-height: 1.6;
+    color:silver;
+}
+
+#i1,#i2,#i3{
+    width: 500px;
+    height: 300px;
+}
+
+.images{
+    display: flex;
+    flex-wrap: wrap;
+    padding-top: 20px;
+    padding-left:30px;
+    padding-right: 30px;
+    justify-content: space-between;
+}
+
+#image1,#image2,#image3,.para2{
+    width: 500px;
+    /* padding-right: 50px; */
+}
+
+#heading1,#heading2,#heading3{
+    padding-top: 15px;
+    font-weight: bolder;
+    color: blue;
+    font-size: 25px;
+}
+
+.para1{
+    padding-top: 10px;
+    line-height: 1.6;
+}
+
+/* container3 ends here*/
+
+.container4{
+    background-color: orange;
+    height: fit-content;
+}
+
+.materials{
+    display: flex;
+    flex-wrap: wrap;
+    padding-top: 20px;
+    padding-left:30px;
+    padding-right: 30px;
+    justify-content: space-between;
+}
+
+.logo1{
+    width: 40px;
+    height: auto;
+}
+
+.para2{
+    padding-top: 50px;
+    width: 500px;
+    line-height: 1.6;
+}
+
+.h31{
+    padding-left: 5px;
+    font-weight: bold;
+    padding-top: 6px;
+    font-size: 25px;
+}
+
+.h31,.logo1{
+    display: flex;
+    float: left;
+}
+
+@media screen and (max-width:576px)
+{
+    body{
+        background-color: pink;
+    }
+
+    #searchText{
+        height: 25px;
+        width: 100px;
+        border-radius: 4px;
+    }
+
+    #navigation li a:link{
+        text-decoration: none;
+        padding: 3px;
+        color: white;
+    }
+
+    .container2{
+        height: 150px;
+    }
+
+    .container3{
+        height: 1480px;
+    }
+
+    #image2,#image3{
+        padding-top: 20px;
+    }
+
+    #material2,#material3{
+        padding-top: 20px;
+    }
+}
+
+@media screen and (min-width:576px) and (max-width:768px)
+{
+    body{
+        background-color: aqua;
+    }
+
+    #searchText{
+        height: 25px;
+        width: 110px;
+        border-radius: 4px;
+    }
+
+    .container2{
+        height: 150px;
+    }
+
+    .container3{
+        height: 1450px;
+    }
+
+    #image2,#image3{
+        padding-top: 20px;
+    }
+
+    #material2,#material3{
+        padding-top: 20px;
+    }
+
+    .images{
+        padding-left: 125px;
+    }
+
+    .materials{
+        padding-left: 125px;
+    }
+}
+
+@media screen and (min-width:768px) and (max-width:992px)
+{
+    body{
+        background-color: bisque;
+    }
+
+    .container2{
+        height: 150px;
+    }
+
+    .container3{
+        height: 1440px;
+    }
+
+    #image2,#image3{
+        padding-top: 20px;
+    }
+
+    #material2,#material3{
+        padding-top: 20px;
+    }
+
+    .images,.materials{
+        padding-left: 245px;
+    }
+}
+
+@media screen and (min-width:992px) and (max-width:1200px){
+    body{
+        background-color: lightgreen;
+    }
+
+    .container2{
+        height: 150px;
+    }
+
+    .container3{
+        height: 1000px;
+    }
+
+    #image3,#material3{
+        padding-left: 300px;
+        padding-top: 20px;
+    }
+}
+
+@media screen and (min-width:1200px) and (max-width:1400px){
+    body{
+        background-color: lightgoldenrodyellow;
+    }
+
+    .container3{
+        height: 1000px;
+    }
+
+    #image3,#material3{
+        padding-left: 405px;
+        padding-top: 20px;
+    }
+}

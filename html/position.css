@@ -1,0 +1,34 @@
+header{
+    background-color: azure;
+  } 
+header.container{
+    margin: 0px auto;
+    width: 1200px;
+    padding:10px ;
+    
+  }
+header img{
+    width: 180px;
+    height: auto;
+
+}
+#menu{
+    float: right;
+
+}
+#menu li{
+    display: inline;
+}
+#logo{
+    float: left;
+
+}
+.clear{
+    clear: both;
+}
+#menu li a:link{
+    color: brown;
+    text-decoration: none;
+    padding: 10px 25px;
+    
+}

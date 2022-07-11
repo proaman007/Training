@@ -1,0 +1,16 @@
+body{
+    font-size: 21px;
+}
+#products{
+    background-color: blue;
+}
+#products .product,
+#todayfashion .product{
+    /*background-color: deeppink;*/
+    background: #ff000f;
+}
+#deal{
+    font-size: 4em;
+    background-color: calc();
+    font-family: 'Splash', cursive;
+}

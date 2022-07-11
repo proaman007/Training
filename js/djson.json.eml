@@ -1,0 +1,121 @@
+Received: from MAZPR01MB7343.INDPRD01.PROD.OUTLOOK.COM (2603:1096:a01:55::6)
+ by BMXPR01MB0693.INDPRD01.PROD.OUTLOOK.COM (2603:1096:b00:13::9) with
+ Microsoft SMTP Server (version=TLS1_2,
+ cipher=TLS_ECDHE_RSA_WITH_AES_256_GCM_SHA384) id 15.20.5395.17; Fri, 8 Jul
+ 2022 06:30:47 +0000
+Received: from MAZPR01MB7343.INDPRD01.PROD.OUTLOOK.COM
+ ([fe80::f9be:8382:a837:2f05]) by MAZPR01MB7343.INDPRD01.PROD.OUTLOOK.COM
+ ([fe80::f9be:8382:a837:2f05%9]) with mapi id 15.20.5417.020; Fri, 8 Jul 2022
+ 06:30:47 +0000
+From: Rohan Bisht <rohan.br@prodapt.com>
+To: "rohanbisht554@gmail.com" <rohanbisht554@gmail.com>
+Subject: 1.json
+Thread-Topic: 1.json
+Thread-Index: AQHYkpQ3RgQGeXQSpkGXqi3KKcGGSw==
+X-MS-Exchange-MessageSentRepresentingType: 1
+Date: Fri, 8 Jul 2022 06:30:46 +0000
+Message-ID:
+ <MAZPR01MB7343666D69BEA20F71DF072B9D829@MAZPR01MB7343.INDPRD01.PROD.OUTLOOK.COM>
+Accept-Language: en-US
+Content-Language: en-IN
+X-MS-Has-Attach: yes
+X-MS-TNEF-Correlator:
+x-ms-publictraffictype: Email
+Content-Type: multipart/mixed;
+	boundary="_004_MAZPR01MB7343666D69BEA20F71DF072B9D829MAZPR01MB7343INDP_"
+MIME-Version: 1.0
+
+--_004_MAZPR01MB7343666D69BEA20F71DF072B9D829MAZPR01MB7343INDP_
+Content-Type: multipart/alternative;
+	boundary="_000_MAZPR01MB7343666D69BEA20F71DF072B9D829MAZPR01MB7343INDP_"
+
+--_000_MAZPR01MB7343666D69BEA20F71DF072B9D829MAZPR01MB7343INDP_
+Content-Type: text/plain; charset="us-ascii"
+
+
+
+Sent from Mail<https://go.microsoft.com/fwlink/?LinkId=550986> for Windows
+
+
+--_000_MAZPR01MB7343666D69BEA20F71DF072B9D829MAZPR01MB7343INDP_
+Content-Type: text/html; charset="us-ascii"
+
+<html xmlns:o="urn:schemas-microsoft-com:office:office" xmlns:w="urn:schemas-microsoft-com:office:word" xmlns:m="http://schemas.microsoft.com/office/2004/12/omml" xmlns="http://www.w3.org/TR/REC-html40"><head>
+<meta http-equiv="Content-Type" content="text/html; charset=us-ascii">
+<meta name="Generator" content="Microsoft Word 15 (filtered medium)">
+<style><!--
+/* Font Definitions */
+@font-face
+	{font-family:"Cambria Math";
+	panose-1:2 4 5 3 5 4 6 3 2 4;}
+@font-face
+	{font-family:Calibri;
+	panose-1:2 15 5 2 2 2 4 3 2 4;}
+/* Style Definitions */
+p.MsoNormal, li.MsoNormal, div.MsoNormal
+	{margin:0cm;
+	font-size:11.0pt;
+	font-family:"Calibri",sans-serif;}
+a:link, span.MsoHyperlink
+	{mso-style-priority:99;
+	color:blue;
+	text-decoration:underline;}
+.MsoChpDefault
+	{mso-style-type:export-only;}
+@page WordSection1
+	{size:612.0pt 792.0pt;
+	margin:72.0pt 72.0pt 72.0pt 72.0pt;}
+div.WordSection1
+	{page:WordSection1;}
+--></style>
+</head>
+<body lang="EN-IN" link="blue" vlink="#954F72" style="word-wrap:break-word">
+<div class="WordSection1">
+<p class="MsoNormal"><o:p>&nbsp;</o:p></p>
+<p class="MsoNormal"><o:p>&nbsp;</o:p></p>
+<p class="MsoNormal">Sent from <a href="https://go.microsoft.com/fwlink/?LinkId=550986">
+Mail</a> for Windows</p>
+<p class="MsoNormal"><o:p>&nbsp;</o:p></p>
+</div>
+</body>
+</html>
+
+--_000_MAZPR01MB7343666D69BEA20F71DF072B9D829MAZPR01MB7343INDP_--
+
+--_004_MAZPR01MB7343666D69BEA20F71DF072B9D829MAZPR01MB7343INDP_
+Content-Type: application/json; name="1.json"
+Content-Description: 1.json
+Content-Disposition: attachment; filename="1.json"; size=1666;
+	creation-date="Fri, 08 Jul 2022 06:30:29 GMT";
+	modification-date="Fri, 08 Jul 2022 06:31:20 GMT"
+Content-Transfer-Encoding: base64
+
+Ww0KICAgIHsNCiAgICAgICAgIm5hbWUiOiAidG93ZWwiLA0KICAgICAgICAiYnJhbmQiOiAiemFy
+YSIsDQogICAgICAgICJwcmljZSI6IDEwMDAsDQogICAgICAgICJyYXRpbmdzIjogNCwNCiAgICAg
+ICAgImNhdGVnb3J5IjogImNsb3RoaW5nIg0KICAgIH0sDQogICAgew0KICAgICAgICAibmFtZSI6
+ICJjcmlja2V0IGJhdCIsDQogICAgICAgICJicmFuZCI6ICJyZWVib2siLA0KICAgICAgICAicHJp
+Y2UiOiAxMDAwMCwNCiAgICAgICAgInJhdGluZ3MiOiA1LA0KICAgICAgICAiY2F0ZWdvcnkiOiAi
+c3BvcnRzIg0KICAgIH0sDQogICAgew0KICAgICAgICAibmFtZSI6ICJzdXBlciIsDQogICAgICAg
+ICJicmFuZCI6ICJkZW52ZXIiLA0KICAgICAgICAicHJpY2UiOiA1MDAwLA0KICAgICAgICAicmF0
+aW5ncyI6IDMuNSwNCiAgICAgICAgImNhdGVnb3J5IjogInBlcmZ1bWUiDQogICAgfSwNCiAgICB7
+DQogICAgICAgICJuYW1lIjogImplYW5zIiwNCiAgICAgICAgImJyYW5kIjogImxldmlzIiwNCiAg
+ICAgICAgInByaWNlIjogMjAwMCwNCiAgICAgICAgInJhdGluZ3MiOiA0LA0KICAgICAgICAiY2F0
+ZWdvcnkiOiAiY2xvdGhpbmciDQogICAgfSwNCiAgICB7DQogICAgICAgICJuYW1lIjogInNoaXJ0
+IiwNCiAgICAgICAgImJyYW5kIjogInJheW1vbmRzIiwNCiAgICAgICAgInByaWNlIjogMjAwMDAs
+DQogICAgICAgICJyYXRpbmdzIjogNC41LA0KICAgICAgICAiY2F0ZWdvcnkiOiAiY2xvdGhpbmci
+DQogICAgfSwNCiAgICB7DQogICAgICAgICJuYW1lIjogImRpYXBlciIsDQogICAgICAgICJicmFu
+ZCI6ICJodWdnaWVzIiwNCiAgICAgICAgInByaWNlIjogMTAwLA0KICAgICAgICAicmF0aW5ncyI6
+IDIsDQogICAgICAgICJjYXRlZ29yeSI6ICJoeWdpZW5lIg0KICAgIH0sDQogICAgew0KICAgICAg
+ICAibmFtZSI6ICJHb2xkIGNoYWluIiwNCiAgICAgICAgImJyYW5kIjogInRhbmlzaHEiLA0KICAg
+ICAgICAicHJpY2UiOiA3MDAwMDAsDQogICAgICAgICJyYXRpbmdzIjogNC43LA0KICAgICAgICAi
+Y2F0ZWdvcnkiOiAiQWNjZXNzb3JpZXMiDQogICAgfSwNCiAgICB7DQogICAgICAgICJuYW1lIjog
+IlkxNSIsDQogICAgICAgICJicmFuZCI6ICJvcHBvIiwNCiAgICAgICAgInByaWNlIjogMzUwMDAs
+DQogICAgICAgICJyYXRpbmdzIjogNC4xLA0KICAgICAgICAiY2F0ZWdvcnkiOiAibW9iaWxlIHBo
+b25lcyINCiAgICB9LA0KICAgIHsNCiAgICAgICAgIm5hbWUiOiAibGVnaW9uIiwNCiAgICAgICAg
+ImJyYW5kIjogImxlbm92byIsDQogICAgICAgICJwcmljZSI6IDEwMDAwLA0KICAgICAgICAicmF0
+aW5ncyI6IDQuOSwNCiAgICAgICAgImNhdGVnb3J5IjogImxhcHRvcCINCiAgICB9LA0KICAgIHsN
+CiAgICAgICAgIm5hbWUiOiAiYmVhbmllIiwNCiAgICAgICAgImJyYW5kIjogImRvcGUiLA0KICAg
+ICAgICAicHJpY2UiOiA1MDAsDQogICAgICAgICJyYXRpbmdzIjogMSwNCiAgICAgICAgImNhdGVn
+b3J5IjogImNhcHMiDQogICAgfQ0KXQ==
+
+--_004_MAZPR01MB7343666D69BEA20F71DF072B9D829MAZPR01MB7343INDP_--

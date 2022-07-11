@@ -1,0 +1,29 @@
+[
+     {
+        "title": "Wrist Watch",
+        "Brand": "TIMEWEAR",
+        "image": "image.jfif",
+        "Price": "379"
+    },
+
+    {
+        "title": "Wrist Watch",
+        "Brand": "HMTE",
+        "image": "image.jfif",
+        "Price": "314"
+    },
+
+    {
+        "title": "Wrist Watch",
+        "Brand": "DANIEL JUBILE",
+        "image": "image.jfif",
+        "Price": "269"
+    },
+
+    {
+        "title": "Wrist Watch",
+        "Brand": "CASERA",
+        "image": "image.jfif",
+        "Price": "299"
+    }
+]
